@@ -94,7 +94,7 @@ Note: that when you have more than 1 coin, the plural of the coin's name is prin
 - [ ] Spell-check.
 - [ ] Schedule time to review, refine and reassess your work.
 
-It is better to submit a challenge that meets [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) than one that attempts too much and fails.
+It is better to submit a challenge that meets [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) than one that attempts too much and fails
 
 ### Tips and Gotchas
 
